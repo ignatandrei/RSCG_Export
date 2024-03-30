@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "obj": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\RSCG_Export_Objects_Console\\RSCG_Export_Objects_Console.csproj"
+    },
+    "console": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\RSCG_ExportConsole\\RSCG_ExportConsole.csproj"
+    }
+  }
+}
